@@ -60,5 +60,5 @@ Hi there! 👋 I'm Rupin Munjal
 
     Location: Oakville, ON, Canada
     Email: rupinmunjal05@gmail.com
-    LinkedIn: https://github.com/rupinmunjal
+    LinkedIn: https://www.linkedin.com/in/rupinmunjal/
     GitHub: https://github.com/rupinmunjal
