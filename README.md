@@ -58,11 +58,7 @@ Hi there! 👋 I'm Rupin Munjal
 
 📫 Let's Connect!
 
-    Location: Oakville, ON, Canada (Postal Code: L6H 1G1)
-    Email: your.email@example.com
-    LinkedIn: Your LinkedIn Profile
-    GitHub: github.com/yourusername
-
-✨ Fun Fact
-
-My dream destination is an island with a snow-covered mountain, enjoying warm weather year-round, in the middle of nowhere 🌄🏖️
+    Location: Oakville, ON, Canada
+    Email: rupinmunjal05@gmail.com
+    LinkedIn: https://github.com/rupinmunjal
+    GitHub: https://github.com/rupinmunjal
