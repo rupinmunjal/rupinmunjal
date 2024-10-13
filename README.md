@@ -11,9 +11,6 @@ Hi there! 👋 I'm Rupin Munjal
     Full-Stack Developer (Fall 2024 Work-Term) – Samskrita Bharati
         Developing open-source applications to create fun, interactive games for learning Sanskrit
         Gaining full-stack experience with creative web development
-    Guard.me Campus Ambassador – Sheridan College
-        Troubleshoot campus IT equipment, computers, and printers
-        Assist students with insurance queries and tech-related issues
 
 🌐 Portfolio Project
 
