@@ -19,12 +19,15 @@ Hi there! 👋 I'm Rupin Munjal
         Integrated Angular Forms, JSON data, routing, and Angular Material components
 
 🔧 Technical Skills
-💻 Programming Languages
 
-JavaScript, TypeScript, Java, Python, Kotlin, C, C++, SQL, HTML, CSS, Bash Scripting
-⚙️ Frameworks & Libraries
+    💻 Programming Languages
 
-Angular, React.js, Spring Boot, Node.js, Bootstrap, Flask, Tailwind CSS, FastAPI, Material-UI
+        JavaScript, TypeScript, Java, Python, Kotlin, C, C++, SQL, HTML, CSS, Bash Scripting
+        
+    ⚙️ Frameworks & Libraries
+
+        Angular, React.js, Spring Boot, Node.js, Bootstrap, Flask, Tailwind CSS, FastAPI, Material-UI
+        
 🛠️ Tools & Technologies
 
     Cloud & DevOps: AWS
