@@ -28,13 +28,13 @@ Hi there! 👋 I'm Rupin Munjal
 
         Angular, React.js, Spring Boot, Node.js, Bootstrap, Flask, Tailwind CSS, FastAPI, Material-UI
         
-🛠️ Tools & Technologies
-
-    Cloud & DevOps: AWS
-    Version Control: Git, GitHub
-    Database: MongoDB
-    Development Tools: Android Studio, Figma
-    Agile Development & Testing: Agile Methodologies, JUnit
+    🛠️ Tools & Technologies
+    
+        Cloud & DevOps: AWS
+        Version Control: Git, GitHub
+        Database: MongoDB
+        Development Tools: Android Studio, Figma
+        Agile Development & Testing: Agile Methodologies, JUnit
 
 📜 Certifications
 
