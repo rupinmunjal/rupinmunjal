@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Student Insights: Analyzing Attitudes and Behaviors**
 
-- 👨‍💻 All of my projects are available at [https://www.rupinmunjal.me/](https://www.rupinmunjal.me/)
+- 👨‍💻 All of my projects are available at [https://www.rupinmunjal.me/projects](https://www.rupinmunjal.me/projects)
 
 - 📝 I regularly write articles on [https://medium.com/@rupinmunjal05](https://medium.com/@rupinmunjal05)
 
