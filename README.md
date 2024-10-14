@@ -1,64 +1,67 @@
-Hi there! 👋 I'm Rupin Munjal
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-🚀 Passionate software developer and network engineer with hands-on experience in building interactive games, web applications, and secure cloud communication systems. I enjoy working with cutting-edge technologies and continuously learning to keep up with industry trends.
-🎓 Education
+###
 
-    Advanced Diploma in Software Development & Network Engineering – Sheridan College
-    Online B.Sc. in Programming and Data Science – IIT Madras
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-💼 Work Experience
+###
 
-    Full-Stack Developer (Fall 2024 Work-Term) – Samskrita Bharati
-        Developing open-source applications to create fun, interactive games for learning Sanskrit
-        Gaining full-stack experience with creative web development
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-🌐 Portfolio Project
+###
 
-    Portfolio Website (Personal Project)
-        Built using Angular, showcasing my technical skills, certifications, and work experience
-        Integrated Angular Forms, JSON data, routing, and Angular Material components
+<h1 align="center">hey there 👋</h1>
 
-🔧 Technical Skills
+###
 
-    💻 Programming Languages
+<h3 align="left">👩‍💻  About Me</h3>
 
-        JavaScript, TypeScript, Java, Python, Kotlin, C, C++, SQL, HTML, CSS, Bash Scripting
-        
-    ⚙️ Frameworks & Libraries
+###
 
-        Angular, React.js, Spring Boot, Node.js, Bootstrap, Flask, Tailwind CSS, FastAPI, Material-UI
-        
-    🛠️ Tools & Technologies
-    
-        Cloud & DevOps: AWS
-        Version Control: Git, GitHub
-        Database: MongoDB
-        Development Tools: Android Studio, Figma
-        Agile Development & Testing: Agile Methodologies, JUnit
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-📜 Certifications
+###
 
-    CCNA IP Addressing and Subnetting – GNS3 Technologies Inc.
+<h3 align="left">🛠 Language and tools</h3>
 
-🧑‍💻 Projects in Progress
+###
 
-    Drag-and-Drop Game for Sanskrit Learning
-        A fun frontend app that teaches Sanskrit through interactive levels with drag-and-drop elements
-        Users progress through levels by arranging items in correct order
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
-    Car Dealership Project
-        Full-stack web application using Spring Boot, Java, JavaScript, and REST APIs
+###
 
-🏆 Soft Skills
+<h3 align="left">🔥   My Stats :</h3>
 
-    Leadership
-    Effective Communication
-    Problem Solving
-    Adaptability
+###
 
-📫 Let's Connect!
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-    Location: Oakville, ON, Canada
-    Email: rupinmunjal05@gmail.com
-    LinkedIn: https://www.linkedin.com/in/rupinmunjal/
-    GitHub: https://github.com/rupinmunjal
+###
