@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rupinmunjal05@gmail.com**
 
-- 📄 Know about my experiences [https://www.rupinmunjal.me/assets/resume.pdf](https://www.rupinmunjal.me/assets/resume.pdf)
+- 📄 Know about my experiences [https://www.rupinmunjal.me/assets/resume.pdf](https://www.rupinmunjal.me/assets/rupin_resume.pdf)
 
 - ⚡ Fun fact **I got a great humor**
 
