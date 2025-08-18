@@ -10,4 +10,5 @@ I'm Rupin Munjal, a Software Development & Network Engineering student at Sherid
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
         <img src="https://komarev.com/ghpvc/?username=rupinmunjal&style=for-the-badge&color=blue" alt="Profile views"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=RupinMunjal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
    </p>
